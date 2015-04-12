@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiculoSoft", "VehiculoSoft\VehiculoSoft.csproj", "{B0B93528-062E-4183-8F34-CBF5ADBC94BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{F9B07B4E-B2F4-4D8E-97A3-010EC99DC378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DLL\DAL.csproj", "{941C019F-0153-44F2-AAE9-CFAB655A0D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B93528-062E-4183-8F34-CBF5ADBC94BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B93528-062E-4183-8F34-CBF5ADBC94BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B93528-062E-4183-8F34-CBF5ADBC94BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B93528-062E-4183-8F34-CBF5ADBC94BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B07B4E-B2F4-4D8E-97A3-010EC99DC378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B07B4E-B2F4-4D8E-97A3-010EC99DC378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B07B4E-B2F4-4D8E-97A3-010EC99DC378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B07B4E-B2F4-4D8E-97A3-010EC99DC378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941C019F-0153-44F2-AAE9-CFAB655A0D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941C019F-0153-44F2-AAE9-CFAB655A0D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941C019F-0153-44F2-AAE9-CFAB655A0D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941C019F-0153-44F2-AAE9-CFAB655A0D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\bin\Debug\VehiculoDb.mdf
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\bin\Debug\VehiculoDb_log.ldf
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\bin\Debug\EntityFramework.dll
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\bin\Debug\EntityFramework.xml
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\obj\Debug\DLL.dll
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\obj\Debug\DLL.pdb
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\bin\Debug\DLL.dll.config
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\bin\Debug\DLL.dll
+C:\Users\Newlin\Desktop\WIP aplicada 1\Tarea 6\Capitulo 8\VehiculoSoft\DLL\bin\Debug\DLL.pdb
